@@ -5,3 +5,6 @@ __pycache__/
 .venv/
 venv/
 data/
+node_modules/
+.next/
+npm-debug.log*
